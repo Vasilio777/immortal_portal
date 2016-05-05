@@ -1,0 +1,23 @@
+{
+  "name": "Portal",
+  "authors": [
+    "Ty3uK <max.karelov@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "material-design-lite": "^1.1.3",
+    "material-design-icons": "^2.2.3",
+    "flexboxgrid": "^6.3.0"
+  }
+}
